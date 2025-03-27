@@ -1,0 +1,58 @@
+@baseUrl = http://localhost:5000
+##################################################
+
+
+################################################## Game
+GET {{baseUrl}}/Game/fish/1
+#####
+POST {{baseUrl}}/Game/coins
+Content-type: application/json
+
+{
+   "userId": 1,
+   "coins": 1,
+   "lastSaved": "abc"
+}
+#####
+POST {{baseUrl}}/Game/fish
+Content-type: application/json
+
+[{
+   "userId": 1,
+   "fishType": "abc",
+   "name": "abc",
+   "color": "abc",
+   "size": 1,
+   "clickBonus": 1,
+   "price": 1
+},
+{
+   "userId": 2,
+   "fishType": "def",
+   "name": "def",
+   "color": "def",
+   "size": 2,
+   "clickBonus": 2,
+   "price": 2
+}]
+#####
+
+################################################## User
+POST {{baseUrl}}/User/login
+Content-type: application/json
+
+{
+   "id": 1,
+   "username": "abc",
+   "passwordHash": "abc"
+}
+#####
+POST {{baseUrl}}/User/register
+Content-type: application/json
+
+{
+   "id": 1,
+   "username": "abc",
+   "passwordHash": "abc"
+}
+#####

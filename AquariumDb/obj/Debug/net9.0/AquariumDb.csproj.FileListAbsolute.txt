@@ -1,0 +1,15 @@
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\bin\Debug\net9.0\AquariumDb.deps.json
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\bin\Debug\net9.0\AquariumDb.runtimeconfig.json
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\bin\Debug\net9.0\AquariumDb.dll
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\bin\Debug\net9.0\AquariumDb.pdb
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\AquariumDb.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\AquariumDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\AquariumDb.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\AquariumDb.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\AquariumDb.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\AquariumDb.sourcelink.json
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\AquariumDb.dll
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\refint\AquariumDb.dll
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\AquariumDb.pdb
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\AquariumDb.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Dokumente\5b\WMC\FlutterProjekt\AquariumBackend\Backend\AquariumDb\obj\Debug\net9.0\ref\AquariumDb.dll
