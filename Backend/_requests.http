@@ -3,6 +3,8 @@
 
 
 ################################################## Game
+GET {{baseUrl}}/Game/decorations/1
+#####
 GET {{baseUrl}}/Game/fish/1
 #####
 POST {{baseUrl}}/Game/coins
@@ -13,6 +15,26 @@ Content-type: application/json
    "coins": 1,
    "lastSaved": "abc"
 }
+#####
+POST {{baseUrl}}/Game/decorations
+Content-type: application/json
+
+[{
+   "userId": 1,
+   "decorationType": "abc",
+   "color": "abc",
+   "size": 1,
+   "passiveIncome": 1,
+   "price": 1
+},
+{
+   "userId": 2,
+   "decorationType": "def",
+   "color": "def",
+   "size": 2,
+   "passiveIncome": 2,
+   "price": 2
+}]
 #####
 POST {{baseUrl}}/Game/fish
 Content-type: application/json

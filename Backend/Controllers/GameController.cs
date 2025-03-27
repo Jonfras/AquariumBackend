@@ -17,4 +17,14 @@ public class GameController(GameService gameService) : ControllerBase {
     public ResponseEntity<List<FishDto>> GetFish(int userId) {
         return gameService.GetFish(userId);
     }
+
+    [HttpPost("decorations")]
+    public ResponseEntity<List<DecorationDto>> SaveDecorations([FromBody] List<DecorationDto> decorationDtos) {
+        return gameService.SaveDecorations(decorationDtos);
+    }
+
+    [HttpGet("decorations/{userId}")]
+    public ResponseEntity<List<DecorationDto>> GetDecorations(int userId) {
+        return gameService.GetDecorations(userId);
+    }
 }

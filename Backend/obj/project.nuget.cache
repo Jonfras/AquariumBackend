@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Mx83gAQaNOw=",
+  "dgSpecHash": "56C62hy/i2s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonas\\OneDrive\\Dokumente\\5b\\WMC\\FlutterProjekt\\AquariumBackend\\Backend\\Backend\\Backend.csproj",
+  "projectFilePath": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonas\\.nuget\\packages\\grueneisr.restclientgenerator\\1.3.1\\grueneisr.restclientgenerator.1.3.1.nupkg.sha512",
-    "C:\\Users\\jonas\\.nuget\\packages\\grueneisr.signalranalyzer\\1.5.2\\grueneisr.signalranalyzer.1.5.2.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\grueneisr.signalranalyzer\\1.6.1\\grueneisr.signalranalyzer.1.6.1.nupkg.sha512",
     "C:\\Users\\jonas\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\jonas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jonas\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

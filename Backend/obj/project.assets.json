@@ -17,7 +17,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "GrueneisR.SignalRAnalyzer/1.5.2": {
+      "GrueneisR.SignalRAnalyzer/1.6.1": {
         "type": "package",
         "compile": {
           "lib/net8.0/SignalRAnalyzer.dll": {}
@@ -2592,15 +2592,15 @@
         "lib/net8.0/RestClientGeneratorMiddlewareLib.dll"
       ]
     },
-    "GrueneisR.SignalRAnalyzer/1.5.2": {
-      "sha512": "NGglu94O5T30IW9bb9CQ8Cktiu1uYp1aCoXj93S6gbtqVxrENjXw6ePIWcf4aIWJKKpcXb29FQd0MHTavqrjHg==",
+    "GrueneisR.SignalRAnalyzer/1.6.1": {
+      "sha512": "QKurtBDAYzcYLOzLHYI3wkP5XWp/oU8s/vaKK9I2n8ypb6t66sP+pQ/EU2LWT2i91GK4Cl6I7DNBQjJVDjvgfg==",
       "type": "package",
-      "path": "grueneisr.signalranalyzer/1.5.2",
+      "path": "grueneisr.signalranalyzer/1.6.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "grueneisr.signalranalyzer.1.5.2.nupkg.sha512",
+        "grueneisr.signalranalyzer.1.6.1.nupkg.sha512",
         "grueneisr.signalranalyzer.nuspec",
         "lib/net8.0/SignalRAnalyzer.dll"
       ]
@@ -6948,11 +6948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonas\\OneDrive\\Dokumente\\5b\\WMC\\FlutterProjekt\\AquariumBackend\\Backend\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\jonas\\OneDrive\\Dokumente\\5b\\WMC\\FlutterProjekt\\AquariumBackend\\Backend\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\jonas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonas\\OneDrive\\Dokumente\\5b\\WMC\\FlutterProjekt\\AquariumBackend\\Backend\\Backend\\obj\\",
+      "outputPath": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6973,8 +6973,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\jonas\\OneDrive\\Dokumente\\5b\\WMC\\FlutterProjekt\\AquariumBackend\\Backend\\AquariumDb\\AquariumDb.csproj": {
-              "projectPath": "C:\\Users\\jonas\\OneDrive\\Dokumente\\5b\\WMC\\FlutterProjekt\\AquariumBackend\\Backend\\AquariumDb\\AquariumDb.csproj"
+            "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\AquariumDb\\AquariumDb.csproj": {
+              "projectPath": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\AquariumDb\\AquariumDb.csproj"
             }
           }
         }
@@ -7031,7 +7031,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

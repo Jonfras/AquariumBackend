@@ -28,4 +28,5 @@ public partial class Decoration
     public DateTime? PurchasedAt { get; set; }
 
     public virtual User User { get; set; } = null!;
+
 }
