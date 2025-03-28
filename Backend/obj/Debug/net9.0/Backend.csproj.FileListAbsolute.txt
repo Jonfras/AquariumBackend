@@ -506,4 +506,3 @@ C:\Development\FlutterDevelopment\aquarium_idle_game\AquariumBackend\AquariumBac
 C:\Development\FlutterDevelopment\aquarium_idle_game\AquariumBackend\AquariumBackend\Backend\obj\Debug\net9.0\Backend.pdb
 C:\Development\FlutterDevelopment\aquarium_idle_game\AquariumBackend\AquariumBackend\Backend\obj\Debug\net9.0\Backend.genruntimeconfig.cache
 C:\Development\FlutterDevelopment\aquarium_idle_game\AquariumBackend\AquariumBackend\Backend\obj\Debug\net9.0\ref\Backend.dll
-C:\Development\FlutterDevelopment\aquarium_idle_game\AquariumBackend\AquariumBackend\Backend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

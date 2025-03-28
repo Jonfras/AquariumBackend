@@ -3,15 +3,23 @@
 namespace Backend.Services;
 public class GameService(AquariumContext db, UserService userService) {
     internal ResponseEntity<UserCoinsDto> SaveCoins(UserCoinsDto dto) {
-        var userCoins = new GameDatum().CopyFrom(dto);
-
-        if (userCoins == null) {
+        if (dto == null) {
             return new ResponseEntity<UserCoinsDto>() {
-                ErrorMessage = "Something went wrong when converting from the dto",
+                ErrorMessage = "dto is null",
                 Data = null
             }
             ;
         }
+        var userCoins = new GameDatum().CopyFrom(dto);
+
+        if (userCoins == null) {
+            return new ResponseEntity<UserCoinsDto>() {
+                ErrorMessage = "Something went wrong when converting this dto",
+                Data = null
+            }
+            ;
+        }
+
 
         var userExists = userService.UserIdExists(dto.UserId);
         if (!userExists) {
@@ -36,6 +44,32 @@ public class GameService(AquariumContext db, UserService userService) {
         };
 
     }
+
+    internal ResponseEntity<UserCoinsDto> GetGameState(int userId) {
+        var userExists = userService.UserIdExists(userId);
+
+        if (!userExists) {
+            return new ResponseEntity<UserCoinsDto>() {
+                Data = null,
+                ErrorMessage = "User doesn't exist"
+            };
+        }
+
+        var gameState = GetGameSaveState(userId);
+
+        if (gameState == null) {
+            return new ResponseEntity<UserCoinsDto>() {
+                Data = null,
+                ErrorMessage = "No game state found for the user"
+            };
+        }
+
+        return new ResponseEntity<UserCoinsDto>() {
+            Data = new UserCoinsDto().CopyFrom(gameState),
+            ErrorMessage = string.Empty
+        };
+    }
+
 
     internal GameDatum? GetGameSaveState(int userId) {
         return db.GameData.FirstOrDefault(x => x.UserId == userId);
@@ -93,8 +127,8 @@ public class GameService(AquariumContext db, UserService userService) {
 
         if (fishDtos == null || fishDtos.Count <= 0) {
             return new ResponseEntity<List<FishDto>>() {
-                Data = null,
-                ErrorMessage = "No fishes in the db"
+                Data = [],
+                ErrorMessage = ""
             };
         }
 
@@ -116,14 +150,14 @@ public class GameService(AquariumContext db, UserService userService) {
         try {
             decorationEntities = decorationDtos.Select(x => new Decoration() {
                 UserId = x.UserId,
-                DecorationType = x.DecorationType ?? string.Empty,
-                Color = x.Color ?? string.Empty,
+                DecorationType = x.DecorationType ?? "",
+                Color = x.Color ?? "",
                 Size = x.Size,
                 PassiveIncome = x.PassiveIncome,
                 Price = x.Price,
-                PositionX = null,
-                PositionY = null,
-                AssetPath = string.Empty,
+                PositionX = 0,
+                PositionY = 0,
+                AssetPath = "",
                 PurchasedAt = DateTime.Now
             }).ToList();
         }

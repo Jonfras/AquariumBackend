@@ -8,6 +8,11 @@ public class GameController(GameService gameService) : ControllerBase {
         return gameService.SaveCoins(dto);
     }
 
+    [HttpGet("coins")]
+    public ResponseEntity<UserCoinsDto> SaveCoins(int userId) {
+        return gameService.GetGameState(userId);
+    }
+
     [HttpPost("fish")]
     public ResponseEntity<List<FishDto>> SaveFish([FromBody] List<FishDto> fishDtos) {
         return gameService.SaveFish(fishDtos);

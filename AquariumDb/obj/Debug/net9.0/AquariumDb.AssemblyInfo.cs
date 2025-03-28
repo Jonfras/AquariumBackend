@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AquariumDb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+548e0b795a3b7387fabb173222856ecb03c2e920")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4348bd9e709137358124dd06cf9eb84cea17c08")]
 [assembly: System.Reflection.AssemblyProductAttribute("AquariumDb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AquariumDb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

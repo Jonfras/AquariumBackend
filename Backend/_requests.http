@@ -3,6 +3,8 @@
 
 
 ################################################## Game
+GET {{baseUrl}}/Game/coins?userId=1
+#####
 GET {{baseUrl}}/Game/decorations/1
 #####
 GET {{baseUrl}}/Game/fish/1

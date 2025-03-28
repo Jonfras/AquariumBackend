@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\development\\flutterdevelopment\\aquarium_idle_game\\aquariumbackend\\aquariumbackend\\backend\\dtos\\decorationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\decorationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\development\\flutterdevelopment\\aquarium_idle_game\\aquariumbackend\\aquariumbackend\\backend\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1133764F-5776-4E0E-BA95-A0E5E32F549C}|AquariumDb\\AquariumDb.csproj|c:\\development\\flutterdevelopment\\aquarium_idle_game\\aquariumbackend\\aquariumbackend\\aquariumdb\\decoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1133764F-5776-4E0E-BA95-A0E5E32F549C}|AquariumDb\\AquariumDb.csproj|solutionrelative:aquariumdb\\decoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\development\\flutterdevelopment\\aquarium_idle_game\\aquariumbackend\\aquariumbackend\\backend\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5CEE1AB-68C5-FCEC-EA61-653FFB609ED2}|Backend\\Backend.csproj|c:\\development\\flutterdevelopment\\aquarium_idle_game\\aquariumbackend\\aquariumbackend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -62,12 +58,11 @@
               "RelativeToolTip": "AquariumDb\\Decoration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T21:29:45.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T21:29:45.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\appsettings.json",
               "RelativeDocumentMoniker": "Backend\\appsettings.json",
@@ -75,12 +70,11 @@
               "RelativeToolTip": "Backend\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T16:19:34.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T16:19:34.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Fish.cs",
               "DocumentMoniker": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\AquariumDb\\Fish.cs",
               "RelativeDocumentMoniker": "AquariumDb\\Fish.cs",
@@ -92,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "FishDto.cs",
               "DocumentMoniker": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Dtos\\FishDto.cs",
               "RelativeDocumentMoniker": "Backend\\Dtos\\FishDto.cs",
@@ -100,8 +94,7 @@
               "RelativeToolTip": "Backend\\Dtos\\FishDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:08:10.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T10:08:10.85Z"
             },
             {
               "$type": "Document",
@@ -111,14 +104,14 @@
               "RelativeDocumentMoniker": "Backend\\Services\\GameService.cs",
               "ToolTip": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Services\\GameService.cs",
               "RelativeToolTip": "Backend\\Services\\GameService.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAawJMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T15:13:58.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "UserCoinsDto.cs",
               "DocumentMoniker": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Dtos\\UserCoinsDto.cs",
               "RelativeDocumentMoniker": "Backend\\Dtos\\UserCoinsDto.cs",
@@ -130,20 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GameController.cs",
               "DocumentMoniker": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\GameController.cs",
               "ToolTip": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Controllers\\GameController.cs",
               "RelativeToolTip": "Backend\\Controllers\\GameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T15:07:56.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Backend\\Services\\UserService.cs",
@@ -155,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Backend\\Program.cs",
@@ -164,40 +157,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T12:02:54.079Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "bfc65b32-10c6-4a48-89a6-d079f8e7b091",
-        "Display": 0,
-        "X": 31,
-        "Y": 433,
-        "Width": 885,
-        "Height": 1033,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DecorationDto.cs",
-              "DocumentMoniker": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Dtos\\DecorationDto.cs",
-              "RelativeDocumentMoniker": "Backend\\Dtos\\DecorationDto.cs",
-              "ToolTip": "C:\\Development\\FlutterDevelopment\\aquarium_idle_game\\AquariumBackend\\AquariumBackend\\Backend\\Dtos\\DecorationDto.cs",
-              "RelativeToolTip": "Backend\\Dtos\\DecorationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T21:23:36.5Z",
-              "EditorCaption": ""
             }
           ]
         }
